@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<head><title>MYSELF</title></head>
+<html>
+<body>
+
+<center>
+<header>
+<body bgcolor="white">
+<a href="index.html">
+
+
+<img src="logos.jpg" title="My Website">
+</a>
+
+
+𝓗𝓮𝓵𝓵𝓸! 𝓜𝔂 𝓷𝓪𝓶𝓮 𝓲𝓼 𝓜𝓾𝓱𝓪𝓶𝓶𝓪𝓭 𝓓𝓪𝓷𝓲𝓪𝓵 𝓗𝓪𝓲𝓺𝓪𝓵 𝓑𝓲𝓷 𝓚𝓱𝓪𝓲𝓻𝓾𝓵 𝓗𝓲𝓼𝓪𝓶
+</html>
+</header>
+
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="index.html">Home</td>
+<td><a href="myself.html">Myself</td>
+<td><a href="education.html">Education</td>
+<td><a href="hobby.html">Hobbies</td>
+</tr>
+</table>
+</nav>
+<hr>
+
+<div class="dropdown">
+           <button class="dropbtn">STUDY LIFE</button>
+           <div class="dropdown-content">
+               <a href="prim.html" target="bottom">Primary school</a>
+               <a href="sec.html" target="xyz">Secondary School</a>
+               <a href="mat.html" target="xyz">Matriculation</a>
+       <a href="u.html" target="xyz">UITM</a>
+           </div>
+       </div>
+       <head>
+           <meta name="viewport" content="width=device-width, initial-scale=1">
+           <style>
+               .dropbtn {
+                   background-color: #FFD0D0;
+                   color: white;
+                   padding: 16px;
+                   font-size: 16px;
+                   border: none;
+               }
+
+               .dropdown {
+                   position: relative;
+                   display: inline-block;
+               }
+
+               .dropdown-content {
+                   display: none;
+                   position: absolute;
+                   background-color: #f1f1f1;
+                   min-width: 160px;
+                   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+                   z-index: 1;
+               }
+
+                   .dropdown-content a {
+                       color: black;
+                       padding: 12px 16px;
+                       text-decoration: none;
+                       display: block;
+                   }
+
+                       .dropdown-content a:hover {
+                           background-color: #E1ACAC;
+                       }
+
+               .dropdown:hover .dropdown-content {
+                   display: block;
+               }
+
+               .dropdown:hover .dropbtn {
+                   background-color: #FF9EAA;
+               }
+           </style>
+
+           <body style="background-color:white;">
+
+
+               <div class="dropdown">
+                   <button class="dropbtn">REAL ME</button>
+                   <div class="dropdown-content">
+                       <a href="random.html" target="xyz">Random</a>
+                   
+                   </div>
+               </div>
+               <head>
+                   <meta name="viewport" content="width=device-width, initial-scale=1">
+                   <style>
+                       .dropbtn {
+                           background-color: #FFD0D0;
+                           color: white;
+                           padding: 16px;
+                           font-size: 16px;
+                           border: none;
+                       }
+
+                       .dropdown {
+                           position: relative;
+                           display: inline-block;
+                       }
+
+                       .dropdown-content {
+                           display: none;
+                           position: absolute;
+                           background-color: #f1f1f1;
+                           min-width: 160px;
+                           box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+                           z-index: 1;
+                       }
+
+                           .dropdown-content a {
+                               color: black;
+                               padding: 12px 16px;
+                               text-decoration: none;
+                               display: block;
+                           }
+
+                               .dropdown-content a:hover {
+                                   background-color: #E1ACAC;
+                               }
+
+                       .dropdown:hover .dropdown-content {
+                           display: block;
+                       }
+
+                       .dropdown:hover .dropbtn {
+                           background-color: #FF9EAA;
+                       }
+                   </style>
+
+                   <body style="background-color:white;">
+
+
+<h2> EDUCATION </h2>
+
+<p>
+🅻🅸🆅🅸🅽🅶 🅼🆈 🅱🅴🆂🆃 🅻🅸🅵🅴.
+</p>
+
+<style>
+img {
+border: 5px solid #111;
+}
+</style>
+
+<img src="14.png" width="30%" height="40%">
+<h3> Biodata </h3>
+<p> 𝙉𝙖𝙢𝙚: 𝙈𝙪𝙝𝙖𝙢𝙢𝙖𝙙 𝘿𝙖𝙣𝙞𝙖𝙡 𝙃𝙖𝙞𝙦𝙖𝙡 𝘽𝙞𝙣 𝙆𝙝𝙖𝙞𝙧𝙪𝙡 𝙃𝙞𝙨𝙖𝙢 </p>
+<p> 𝘼𝙜𝙚: 21 𝙔𝙚𝙖𝙧𝙨 𝙊𝙡𝙙 </p>
+<p> 𝙍𝙚𝙡𝙞𝙜𝙞𝙤𝙣:  𝙄𝙨𝙡𝙖𝙢 </p>
+<p> 𝘿𝙖𝙩𝙚 𝙊𝙛 𝘽𝙞𝙧𝙩𝙝: 13 𝙅𝙪𝙣𝙚 2003 </p>
+<p> 𝙂𝙚𝙣𝙙𝙚𝙧: 𝙈𝙖𝙡𝙚 </p>
+<p> 𝙈𝙤𝙗𝙞𝙡𝙚 𝙉𝙪𝙢𝙗𝙚𝙧: +601129883221 </p>
+
+<img src="e1.jpg" width="30%" height="40%"><img src="e2.jpg" width="30%" height="40%"><img src="e3.jpg" width="30%" height="40%">
+<td><img src="e4.jpg" width="30%" height="40%"><img src="e5.jpg" width="30%" height="40%"><img src="e6.jpg" width="30%" height="40%"></td>
+<td><img src="e7.jpg" width="30%" height="40%"><img src="e8.jpg" width="30%" height="40%"><img src="e9.jpg" width="30%" height="40%"></td>
+
+
+
+<center/>
+<center/>
+</body>
+</html>
